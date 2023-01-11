@@ -1,9 +1,15 @@
 {
   "version": 5,
-  "prev": null,
-  "head": "e4095c96aa653ce85745ce26c0b5d38a63314328",
-  "applied": [],
+  "prev": "a5d7a08365a2c8ea6d321e212dd4b73a8d178cf1",
+  "head": "2d784fe9c9da5a633fd56fb65b951a6acf27f9bf",
+  "applied": [
+    "doxyfix"
+  ],
   "unapplied": [],
   "hidden": [],
-  "patches": {}
+  "patches": {
+    "doxyfix": {
+      "oid": "2d784fe9c9da5a633fd56fb65b951a6acf27f9bf"
+    }
+  }
 }
